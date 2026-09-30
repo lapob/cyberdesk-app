@@ -18,12 +18,6 @@ system monitoring, network review, and controlled self-updates.
 - Electron Builder Windows installer with optional Desktop and Start Menu shortcuts
 - Auto-update metadata for release hosting
 
-## Run from terminal
-```powershell
-cd D:\Programmi\Cyberdesk
-npm.cmd start
-```
-
 PowerShell may block `npm.ps1` on this machine, so `npm.cmd` is the safer command.
 
 ## Local database commands
